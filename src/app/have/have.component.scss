@@ -1,0 +1,50 @@
+.have {
+  background-color: black;
+  color: white;
+  display: flex;
+  height: 500px;
+}
+.letters {
+  padding-top: 120px;
+  justify-content: center;
+  padding-left: 40px;
+}
+.line {
+  font-size: 30px;
+  padding-right: 50px;
+}
+.para {
+  font-size: 20px;
+  padding-top: 20px;
+}
+.buttons {
+  padding-bottom: 50px;
+  padding-top: 30px;
+  cursor: pointer;
+}
+.button1 {
+  border: 1px solid #00e472;
+  background-color: #00e472;
+  color: white;
+  border-radius: 18px;
+  width: 120px;
+  padding-bottom: 5px;
+}
+.button2 {
+  border: 2px solid #00e472;
+  background-color: black;
+  color: white;
+  border-radius: 18px;
+  width: 120px;
+  margin-left: 20px;
+  padding-bottom: 5px;
+}
+.image {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+.picture {
+  height: 100%;
+  padding-right: 0px;
+}

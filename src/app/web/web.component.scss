@@ -1,0 +1,36 @@
+.web {
+  display: flex;
+  background-color: black;
+  color: white;
+  padding-bottom: 60px;
+}
+.iam {
+  font-size: 36px;
+  justify-content: center;
+}
+.text {
+  padding: 130px 40px 85px 40px;
+  align-items: center;
+}
+.quick {
+  padding-top: 20px;
+  font-size: 18px;
+}
+.part1 {
+  display: flex;
+  padding-top: 90px;
+}
+.part2 {
+  display: flex;
+  padding-top: 40px;
+}
+.container {
+  position: relative;
+  text-align: center;
+}
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}

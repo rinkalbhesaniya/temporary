@@ -1,0 +1,46 @@
+.icons {
+  color: white;
+  background-color: #313536;
+  padding-top: 70px;
+  padding-bottom: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.text {
+  color: white;
+  background-color: green;
+  height: 70px;
+  width: 70px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+.icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 0px;
+}
+.num {
+  font-size: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.space {
+  padding-bottom: 70px !important;
+}
+.icon-data {
+  //display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 15px;
+}
+.pro {
+  font-size: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
